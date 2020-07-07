@@ -33,12 +33,11 @@ function loadRequisicao() {
         imgApod.src = result.url;
         expApod.textContent = `Explanation: ${result.explanation}`;
         copyApod.textContent = `Copyright: ${result.copyright}`;
+
+
     
         
         
 
     }
     requisicao.send() }
-
-
-

@@ -8,12 +8,12 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-    background-color:	#8B8682;
+    background-color:#2B334A;
     
 	
 }
 h1{
-    color:#4F4F4F;
+    color:#C2C5C8;
 }
 
 #t1 { 
@@ -23,7 +23,7 @@ h1{
     align-items: center;
     margin-bottom: 10px;
     margin-top: 10px;
-    color: #4F4F4F;
+    color:#C2C5C8;
     
 
 }
@@ -42,7 +42,7 @@ h1{
     font-size: 15px;
     margin-bottom: 10px;
     margin-top: 10px;
-    color: darkgray;
+    color:#C2C5C8;
     
 }
 
@@ -57,11 +57,13 @@ h1{
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-size: large;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-left: 15%;
-    
-    
+    margin: 40px;
+    color: #C2C5C8;
+}
 
+#newDATE { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
 }
